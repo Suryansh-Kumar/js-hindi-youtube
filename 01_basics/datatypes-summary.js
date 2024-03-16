@@ -19,7 +19,7 @@ const bigNumber = 84659436498439564389634n;
 console.log(typeof bigNumber);
 
 // ? Referance/Non-Primitive
-// ? Array, Objects, Functions
+// ? 3: Array, Objects, Functions
 
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
